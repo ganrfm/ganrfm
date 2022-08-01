@@ -1,7 +1,9 @@
-GANRFM
+<h1>GANRFM</h1>
 
-Sections:<br>
-Introduction
-Setup
-Train process
-Evaluation
+<h3>Sections:<h3>
+  <ul>
+    <li>Introduction</li>
+    <li>Setup</li>
+    <li>Train process</li>
+    <li>Evaluation</li>
+  </ul>
