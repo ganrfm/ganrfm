@@ -1,6 +1,6 @@
 GANRFM
 
-Sections:
+Sections:<br>
 Introduction
 Setup
 Train process
